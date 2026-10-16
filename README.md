@@ -4,7 +4,7 @@ I’ve worked across e-commerce, fintech and government, and I’ve launched my 
 
 What I enjoy most is owning a problem end to end. I like to understand what slows a team down, design both the backend and the UI, and ship something non-technical people can use without waiting on an engineer. Some of that work has turned processes that took days into minutes.
 
-Day to day I work with Python, TypeScript, React, Next.js, PostgreSQL, Elasticsearch, GraphQL, Temporal and LLM. Earlier in my career I worked with NestJS and Node.
+Day to day I work with Python, TypeScript, React, Next.js, PostgreSQL, Elasticsearch, GraphQL, Temporal, LLM and Google Cloud. Earlier in my career I worked with NestJS and Node.
 
 ## [![Portfolio](https://img.icons8.com/color/18/000000/domain.png) Portfolio](https://kristophermt3z.com/)
 
