@@ -1,12 +1,10 @@
-I’m a Full-Stack AI Engineer who turns slow, manual processes into AI-powered tools that people can run on their own.
+Full-Stack AI Engineer with 4+ years shipping production systems across AI, e-commerce, fintech and government.
 
-I’ve worked across AI, e-commerce, fintech and government. I’ve built LLM pipelines that generate and validate data, LLM-based evaluation systems that catch quality issues before they reach production, secure payment systems and digital wallets, and a platform that connects judicial entities across the country. Some of that work turned days of engineering into minutes.
+My recent focus is RAG and AI automation: tuning retrieval and re-ranking for an LLM assistant that runs on smaller open-weight models under tight latency budgets, building automated evals (rule checks + LLM-as-judge) that catch data and quality issues before they reach production, and turning manual workflows into AI pipelines. One of them took client setup from days of engineering to minutes.
 
-I’ve also built and launched my own AI product and SaaS, from idea to production.
+I've also built and launched my own AI product and SaaS from idea to production. What I enjoy most is owning a problem end to end: understanding what slows a team down, designing the backend and the UI, and shipping something non-technical people can use on their own.
 
-What I enjoy most is owning a problem end to end: understanding what slows a team down, designing both the backend and the UI, and shipping something non-technical people can use without waiting on an engineer.
-
-Day to day I work with Python, TypeScript, React, Next.js, PostgreSQL, Elasticsearch, GraphQL, Temporal, LLM APIs and Google Cloud. Earlier in my career I worked with NestJS, Node.js and AWS.
+Python · TypeScript · React · Next.js · PostgreSQL · Elasticsearch · GraphQL · Temporal · LLM APIs · Google Cloud
 
 ## [![Portfolio](https://img.icons8.com/color/18/000000/domain.png) Portfolio](https://kristophermt3z.com/)
 
